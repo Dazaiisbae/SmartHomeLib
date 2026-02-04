@@ -1,0 +1,12 @@
+C:\Github_beau\SmartHomeLib\SmartHomeLIb\SmartHomeLIb\bin\Debug\net8.0\SmartHomeLibrary.deps.json
+C:\Github_beau\SmartHomeLib\SmartHomeLIb\SmartHomeLIb\bin\Debug\net8.0\SmartHomeLibrary.dll
+C:\Github_beau\SmartHomeLib\SmartHomeLIb\SmartHomeLIb\bin\Debug\net8.0\SmartHomeLibrary.pdb
+C:\Github_beau\SmartHomeLib\SmartHomeLIb\SmartHomeLIb\obj\Debug\net8.0\SmartHomeLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github_beau\SmartHomeLib\SmartHomeLIb\SmartHomeLIb\obj\Debug\net8.0\SmartHomeLibrary.AssemblyInfoInputs.cache
+C:\Github_beau\SmartHomeLib\SmartHomeLIb\SmartHomeLIb\obj\Debug\net8.0\SmartHomeLibrary.AssemblyInfo.cs
+C:\Github_beau\SmartHomeLib\SmartHomeLIb\SmartHomeLIb\obj\Debug\net8.0\SmartHomeLibrary.csproj.CoreCompileInputs.cache
+C:\Github_beau\SmartHomeLib\SmartHomeLIb\SmartHomeLIb\obj\Debug\net8.0\SmartHomeLibrary.sourcelink.json
+C:\Github_beau\SmartHomeLib\SmartHomeLIb\SmartHomeLIb\obj\Debug\net8.0\SmartHomeLibrary.dll
+C:\Github_beau\SmartHomeLib\SmartHomeLIb\SmartHomeLIb\obj\Debug\net8.0\refint\SmartHomeLibrary.dll
+C:\Github_beau\SmartHomeLib\SmartHomeLIb\SmartHomeLIb\obj\Debug\net8.0\SmartHomeLibrary.pdb
+C:\Github_beau\SmartHomeLib\SmartHomeLIb\SmartHomeLIb\obj\Debug\net8.0\ref\SmartHomeLibrary.dll

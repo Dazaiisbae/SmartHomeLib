@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Github_beau\\SmartHomeLib\\SmartHomeLIb\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3F06F7DA-62AF-491B-BBFE-3B602747C5ED}|SmartHomeLIb\\SmartHomeLIb.csproj|c:\\github_beau\\smarthomelib\\smarthomelib\\smarthomelib\\smartdevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F06F7DA-62AF-491B-BBFE-3B602747C5ED}|SmartHomeLIb\\SmartHomeLIb.csproj|solutionrelative:smarthomelib\\smartdevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F06F7DA-62AF-491B-BBFE-3B602747C5ED}|SmartHomeLIb\\SmartHomeLIb.csproj|c:\\github_beau\\smarthomelib\\smarthomelib\\smarthomelib\\smarthomehub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F06F7DA-62AF-491B-BBFE-3B602747C5ED}|SmartHomeLIb\\SmartHomeLIb.csproj|solutionrelative:smarthomelib\\smarthomehub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F06F7DA-62AF-491B-BBFE-3B602747C5ED}|SmartHomeLIb\\SmartHomeLibrary.csproj|c:\\github_beau\\smarthomelib\\smarthomelib\\smarthomelib\\smartthermostat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F06F7DA-62AF-491B-BBFE-3B602747C5ED}|SmartHomeLIb\\SmartHomeLibrary.csproj|solutionrelative:smarthomelib\\smartthermostat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F06F7DA-62AF-491B-BBFE-3B602747C5ED}|SmartHomeLIb\\SmartHomeLibrary.csproj|c:\\github_beau\\smarthomelib\\smarthomelib\\smarthomelib\\smartlight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F06F7DA-62AF-491B-BBFE-3B602747C5ED}|SmartHomeLIb\\SmartHomeLibrary.csproj|solutionrelative:smarthomelib\\smartlight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E681CBDE-641B-45CC-BCCA-C0B71A67D101}|ConsoleApp1\\SmartHomeConsole.csproj|c:\\github_beau\\smarthomelib\\smarthomelib\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E681CBDE-641B-45CC-BCCA-C0B71A67D101}|ConsoleApp1\\SmartHomeConsole.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F06F7DA-62AF-491B-BBFE-3B602747C5ED}|SmartHomeLIb\\SmartHomeLibrary.csproj|c:\\github_beau\\smarthomelib\\smarthomelib\\smarthomelib\\securitycamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F06F7DA-62AF-491B-BBFE-3B602747C5ED}|SmartHomeLIb\\SmartHomeLibrary.csproj|solutionrelative:smarthomelib\\securitycamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Github_beau\\SmartHomeLib\\SmartHomeLIb\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
+              "ToolTip": "C:\\Github_beau\\SmartHomeLib\\SmartHomeLIb\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "ConsoleApp1\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T02:04:57.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SecurityCamera.cs",
+              "DocumentMoniker": "C:\\Github_beau\\SmartHomeLib\\SmartHomeLIb\\SmartHomeLIb\\SecurityCamera.cs",
+              "RelativeDocumentMoniker": "SmartHomeLIb\\SecurityCamera.cs",
+              "ToolTip": "C:\\Github_beau\\SmartHomeLib\\SmartHomeLIb\\SmartHomeLIb\\SecurityCamera.cs",
+              "RelativeToolTip": "SmartHomeLIb\\SecurityCamera.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T02:02:20.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SmartThermostat.cs",
+              "DocumentMoniker": "C:\\Github_beau\\SmartHomeLib\\SmartHomeLIb\\SmartHomeLIb\\SmartThermostat.cs",
+              "RelativeDocumentMoniker": "SmartHomeLIb\\SmartThermostat.cs",
+              "ToolTip": "C:\\Github_beau\\SmartHomeLib\\SmartHomeLIb\\SmartHomeLIb\\SmartThermostat.cs",
+              "RelativeToolTip": "SmartHomeLIb\\SmartThermostat.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T02:01:51.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SmartLight.cs",
+              "DocumentMoniker": "C:\\Github_beau\\SmartHomeLib\\SmartHomeLIb\\SmartHomeLIb\\SmartLight.cs",
+              "RelativeDocumentMoniker": "SmartHomeLIb\\SmartLight.cs",
+              "ToolTip": "C:\\Github_beau\\SmartHomeLib\\SmartHomeLIb\\SmartHomeLIb\\SmartLight.cs",
+              "RelativeToolTip": "SmartHomeLIb\\SmartLight.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T01:53:31.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SmartHomeHub.cs",
+              "DocumentMoniker": "C:\\Github_beau\\SmartHomeLib\\SmartHomeLIb\\SmartHomeLIb\\SmartHomeHub.cs",
+              "RelativeDocumentMoniker": "SmartHomeLIb\\SmartHomeHub.cs",
+              "ToolTip": "C:\\Github_beau\\SmartHomeLib\\SmartHomeLIb\\SmartHomeLIb\\SmartHomeHub.cs",
+              "RelativeToolTip": "SmartHomeLIb\\SmartHomeHub.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T01:35:14.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SmartDevice.cs",
+              "DocumentMoniker": "C:\\Github_beau\\SmartHomeLib\\SmartHomeLIb\\SmartHomeLIb\\SmartDevice.cs",
+              "RelativeDocumentMoniker": "SmartHomeLIb\\SmartDevice.cs",
+              "ToolTip": "C:\\Github_beau\\SmartHomeLib\\SmartHomeLIb\\SmartHomeLIb\\SmartDevice.cs",
+              "RelativeToolTip": "SmartHomeLIb\\SmartDevice.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAcwBsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T01:34:57.973Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
